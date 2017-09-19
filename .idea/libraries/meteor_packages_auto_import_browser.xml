@@ -87,9 +87,11 @@
         <item url="file://$USER_HOME$/.meteor/packages/http/1.2.12/web.browser/deprecated.js" />
         <item url="file://$USER_HOME$/.meteor/packages/http/1.2.12/web.browser/httpcall_tests.js" />
         <item url="file://$USER_HOME$/.meteor/packages/http/1.2.12/web.browser/httpcall_common.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/mizzao_bootstrap-3/3.3.1_1/web.browser/packages/mizzao:bootstrap-3.js" />
         <item url="file://$USER_HOME$/.meteor/packages/http/1.2.12/web.browser/httpcall_server.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-runtime/1.0.1/web.browser/babel-runtime.js" />
         <item url="file://$USER_HOME$/.meteor/packages/http/1.2.12/web.browser/httpcall_client.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/mizzao_bootstrap-3/3.3.1_1/web.browser/packages/mizzao:bootstrap-3/bootstrap-3/css/bootstrap.css" />
         <item url="file://$USER_HOME$/.meteor/packages/id-map/1.0.9/web.browser/id-map.js" />
         <item url="file://$USER_HOME$/.meteor/packages/base64/1.0.10/web.browser/base64.js" />
         <item url="file://$USER_HOME$/.meteor/packages/jquery/1.11.10/web.browser/jquery.js" />
@@ -241,9 +243,11 @@
       <root url="file://$USER_HOME$/.meteor/packages/http/1.2.12/web.browser/deprecated.js" />
       <root url="file://$USER_HOME$/.meteor/packages/http/1.2.12/web.browser/httpcall_tests.js" />
       <root url="file://$USER_HOME$/.meteor/packages/http/1.2.12/web.browser/httpcall_common.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/mizzao_bootstrap-3/3.3.1_1/web.browser/packages/mizzao:bootstrap-3.js" />
       <root url="file://$USER_HOME$/.meteor/packages/http/1.2.12/web.browser/httpcall_server.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-runtime/1.0.1/web.browser/babel-runtime.js" />
       <root url="file://$USER_HOME$/.meteor/packages/http/1.2.12/web.browser/httpcall_client.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/mizzao_bootstrap-3/3.3.1_1/web.browser/packages/mizzao:bootstrap-3/bootstrap-3/css/bootstrap.css" />
       <root url="file://$USER_HOME$/.meteor/packages/id-map/1.0.9/web.browser/id-map.js" />
       <root url="file://$USER_HOME$/.meteor/packages/base64/1.0.10/web.browser/base64.js" />
       <root url="file://$USER_HOME$/.meteor/packages/jquery/1.11.10/web.browser/jquery.js" />
